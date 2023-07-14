@@ -9,6 +9,7 @@
 
 .parent-box {
     display: flex;
+    margin-top: 100px;
     /* Remember to remove the broder later */
     /* border: solid 5px black; */
     width: 736px;
@@ -158,4 +159,9 @@
 }
 .summary-icon{
     margin-right: 10px;
+}
+
+.attribution{
+    text-align: center;
+    margin-top: 350px;
 }
