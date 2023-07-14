@@ -64,41 +64,65 @@
 .reaction-box{
     display: flex;
     padding-top: 16px;
-    padding-right: 16px;
     padding-bottom: 16px;
     padding-left: 16px;
-    width: 253px;
+    padding-right: 16px;
     background-color: #fff6f5;
     border-radius: 10px;
+    color: #e06061;
+    margin-bottom: 15px;
+    margin-top: 30px;
     
 }
 .memory-box{
     display: flex;
     padding-top: 16px;
-    padding-right: 16px;
     padding-bottom: 16px;
     padding-left: 16px;
-    width: 253px;
+    padding-right: 16px;
     background-color: #fffbf2;
     border-radius: 10px;
+    color: #f8b947;
+    margin-bottom: 15px;
 }
 .verbal-box{
     display: flex;
     padding-top: 16px;
-    padding-right: 16px;
     padding-bottom: 16px;
     padding-left: 16px;
-    width: 253px;
+    padding-right: 16px;
     background-color: #f2fbfa;
     border-radius: 10px;
+    color: #1a9c7a;
+    margin-bottom: 15px;
 }
 .visual-box{
     display: flex;
     padding-top: 16px;
-    padding-right: 16px;
     padding-bottom: 16px;
     padding-left: 16px;
-    width: 253px;
+    padding-right: 16px;
     background-color: #f3f3fd;
     border-radius: 10px;
+    color: #5e69e7;
+    margin-bottom: 15px;
+}
+.summary-mark{
+    width: 100%;
+    text-align: right;
+    padding-left: 120px;
+    color: #22263f;
+    font-weight: bold;
+}
+.summary-mark span{
+    color: #9495a7;
+}
+.button{
+    border: none;
+    color: #fdfffc;
+    background-color: #303b59;
+    padding: 16px 113px;
+    border-radius: 30px;
+    margin-top: 25px;
+    font-size: 20px;
 }
